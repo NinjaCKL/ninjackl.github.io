@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 117px;
+
+    color: #000000;
+
+}
+.jsp{
+    padding-left: 8%;
+    margin: auto;
+    width: 80%;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    text-align: left;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    color: #000000;
+}
+div {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-right: 10%;
+  }
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+    font-size: 27px;
+    font-family: 'Roboto';
+    font-weight: bold;
+  }
+input{
+    width: 300px;
+    padding-left: 10px;
+    height: 50px;
+    font-size: 20px;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    box-shadow: 7px 7px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+#submit{
+    width: 150px;
+    height: 50px;
+    background: #00FFD1;
+    margin-top: 20px;
+    border: 4px solid #000000;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto';
+}
